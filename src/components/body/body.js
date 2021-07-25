@@ -12,7 +12,7 @@ const Body = () => {
             <Breakout />
             <div id = 'content'>
                 <div id = 'side-nav-holder'>
-                    <Todo />
+                    {/* <Todo /> */}
                 </div>
                 <div>
                     
